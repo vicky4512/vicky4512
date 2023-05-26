@@ -2,7 +2,7 @@
 
 
 
-Here are some ideas to get you started:
+Here is my Introduction:
 
 - 🎓就讀亞洲大學....
 - 🌱 來自台灣 ...
