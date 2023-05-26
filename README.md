@@ -28,3 +28,9 @@ Here is my Introduction:
 </a>
 
 
+### Most Used Languages
+<a href="https://github.com/vicky4512">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vicky4512&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
+</a>
+
+
