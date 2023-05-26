@@ -19,5 +19,10 @@ Here is my Introduction:
   </tbody>
 </table>
 <img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=htchu&style=flat-square&&label=Profile+Views&color=50A1FF">
+### Github Analytics
+<a href="https://github.com/htchu">
+  <img src="https://github-readme-stats.vercel.app/api?username=htchu&count_private=true&show_icons=true&include_all_commits=true" />
+</a>
+
 
 
